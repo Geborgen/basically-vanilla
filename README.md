@@ -10,7 +10,9 @@
 - [Everything Else](#everything-else)
 
 ## Preamble
-This is literally vanilla Skyrim but it looks and runs a bit nicer. Not a whole lot to say here. No gameplay changes. Barely any graphics changes, just new weather and vanilla HDR (no ENB), and SMIM and stuff. A bunch of fixes. Oh and Untarnished UI because it's so cool. I made this for a friend mainly
+This is literally vanilla Skyrim but it looks and runs a bit nicer. Not a whole lot to say here. No gameplay changes. Barely any graphics changes, just new weather and vanilla HDR (no ENB), and SMIM and stuff. A bunch of fixes. Oh and Untarnished UI because it's so cool. And some new animations. I made this for a friend mainly
+
+[Full Modlist](https://loadorderlibrary.com/lists/basically-vanilla)
 
 ## System Requirements
 if u can run skyrim u can run this
