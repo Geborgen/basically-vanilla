@@ -16,6 +16,7 @@ This is literally vanilla Skyrim but it looks and runs a bit nicer. Not a whole 
 
 ## System Requirements
 if u can run skyrim u can run this
+
 the whole list is 29.4 gb, 25.72 without downloads
 
 ## Installation
