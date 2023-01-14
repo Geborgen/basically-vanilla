@@ -41,7 +41,7 @@ the whole list is 29.4 gb, 25.72 without downloads
  ## Post Installation
  - Run `ModOrganizer.exe` and then click `Run` at the top right to play the list
  - You will spawn in a cell where you make your character, from there talk to the Statue of Mara where you can either select the vanilla intro or any other option
- - [gameplay guide lmao](https://en.uesp.net/wiki/Main_Page)
+ - [gameplay guide lmao](https://en.uesp.net/wiki/Skyrim:Skyrim)
  
  ## Everything Else
  
