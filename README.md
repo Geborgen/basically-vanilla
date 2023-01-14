@@ -45,9 +45,14 @@ the whole list is 29.4 gb, 25.72 without downloads
  
  ## Everything Else
  
- there is no enb feel free to add it if you want
- idc if you modify the list its literally the most basic thing
- to uninstall just delete the `Basically Vanilla` folder
- i probably wont update this
- dont submit bug reports theres nothing i will do and they are probably vanilla bugs anyway
- thanks to wabbajack ofc and carson for making me make this
+there is no enb feel free to add it if you want
+ 
+idc if you modify the list its literally the most basic thing
+
+to uninstall just delete the `Basically Vanilla` folder
+ 
+i probably wont update this
+ 
+dont submit bug reports theres nothing i will do and they are probably vanilla bugs anyway
+
+thanks to wabbajack ofc and carson for making me make this
