@@ -10,14 +10,14 @@
 - [Everything Else](#everything-else)
 
 ## Preamble
-This is literally vanilla Skyrim but it looks and runs a bit nicer. Not a whole lot to say here. No gameplay changes. Barely any graphics changes, just new weather and vanilla HDR (no ENB), and SMIM and stuff. A bunch of fixes. Oh and Untarnished UI because it's so cool. And some new animations. I made this for a friend mainly
+This is literally vanilla Skyrim but it looks and runs a bit nicer. Not a whole lot to say here. No gameplay changes. Graphics consist of Cathedral Weathers, Project Clarity, Cathedral mods, and basic LOD. No ENB or ReShade is included but you can add it yourself. A bunch of fixes. Oh and Untarnished UI because it's so cool. And some new animations. I made this for a friend mainly but it's good if you just want a slightly better vanilla.
 
 [Full Modlist](https://loadorderlibrary.com/lists/basically-vanilla)
 
 ## System Requirements
 if u can run skyrim u can run this
 
-the whole list is 29.4 gb, 25.72 without downloads
+the whole list is 69.2 gb, 51 without downloads
 
 ## Installation
 - Create a folder at the root of your drive called `Basically Vanilla` (like `C:/Basically Vanilla`)
@@ -40,12 +40,14 @@ the whole list is 29.4 gb, 25.72 without downloads
   
  ## Post Installation
  - Run `ModOrganizer.exe` and then click `Run` at the top right to play the list
- - You will spawn in a cell where you make your character, from there talk to the Statue of Mara where you can either select the vanilla intro or any other option
+ - There will be a prompt to skip the intro if you want, if you do then you will spawn at the end of the Helgen cave
  - [gameplay guide lmao](https://en.uesp.net/wiki/Skyrim:Skyrim)
  
- ## Everything Else
+## Everything Else
  
 there is no enb feel free to add it if you want
+
+it used stock game so the game directory is `Basically Vanilla/Stock Game`
  
 idc if you modify the list its literally the most basic thing
 
@@ -56,3 +58,5 @@ i probably wont update this
 dont submit bug reports theres nothing i will do and they are probably vanilla bugs anyway
 
 thanks to wabbajack ofc and carson for making me make this
+
+(its actually pretty fun i forgot how much i loved vanilla skyrim)
