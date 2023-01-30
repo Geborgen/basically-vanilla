@@ -10,7 +10,7 @@
 - [Everything Else](#everything-else)
 
 ## Preamble
-This is literally vanilla Skyrim but it looks and runs a bit nicer. Not a whole lot to say here. No gameplay changes. Graphics consist of Cathedral Weathers, Project Clarity, Cathedral mods, and basic LOD. No ENB or ReShade is included but you can add it yourself. A bunch of fixes. Oh and Untarnished UI because it's so cool. And some new animations. I made this for a friend mainly but it's good if you just want a slightly better vanilla.
+This is literally vanilla Skyrim but it looks and runs a bit nicer. Not a whole lot to say here. No gameplay changes. Graphics consist of Cathedral Weathers, Project Clarity, Cathedral mods, and basic LOD. No ENB or ReShade is included but you can add it yourself. A bunch of fixes. Oh and Untarnished UI because it's so cool. And some new animations. I made this for a friend mainly but it's good if you just want a slightly better vanilla. You can play it as-is or use it as a base for your own modlist.
 
 [Full Modlist](https://loadorderlibrary.com/lists/basically-vanilla)
 
