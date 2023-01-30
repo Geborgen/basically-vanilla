@@ -17,7 +17,7 @@ This is literally vanilla Skyrim but it looks and runs a bit nicer. Not a whole 
 ## System Requirements
 if u can run skyrim u can run this
 
-the whole list is 69.2 gb, 51 without downloads
+the whole list is 86.6 gb, 60.4 without downloads
 
 ## Installation
 - Create a folder at the root of your drive called `Basically Vanilla` (like `C:/Basically Vanilla`)
